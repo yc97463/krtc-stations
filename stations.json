@@ -1,0 +1,1572 @@
+{
+  "metro_lines": [
+    {
+      "operator": "KRTC",
+      "lines": [
+        {
+          "line": {
+            "name": "捷運紅線",
+            "code": "R",
+            "color": "#CF1E49"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "小港",
+                "en": "Siaogang"
+              },
+              "code": "R3"
+            },
+            {
+              "name": {
+                "ch": "高雄國際機場",
+                "en": "Kaohsiung International Airport"
+              },
+              "code": "R4"
+            },
+            {
+              "name": {
+                "ch": "草衙",
+                "en": "Caoya"
+              },
+              "code": "R4A"
+            },
+            {
+              "name": {
+                "ch": "前鎮高中 (五甲) ",
+                "en": "Cianjhen Senior High School"
+              },
+              "code": "R5"
+            },
+            {
+              "name": {
+                "ch": "凱旋",
+                "en": "Kaisyuan"
+              },
+              "code": "R6"
+            },
+            {
+              "name": {
+                "ch": "獅甲 (勞工公園) ",
+                "en": "Shihjia"
+              },
+              "code": "R7"
+            },
+            {
+              "name": {
+                "ch": "三多商圈",
+                "en": "Sanduo Shopping District"
+              },
+              "code": "R8"
+            },
+            {
+              "name": {
+                "ch": "中央公園",
+                "en": "Central Park"
+              },
+              "code": "R9"
+            },
+            {
+              "name": {
+                "ch": "高雄車站",
+                "en": "Kaohsiung Main Station"
+              },
+              "code": "R11"
+            },
+            {
+              "name": {
+                "ch": "後驛 (高醫大) ",
+                "en": "Houyi"
+              },
+              "code": "R12"
+            },
+            {
+              "name": {
+                "ch": "凹子底",
+                "en": "Aozihdi"
+              },
+              "code": "R13"
+            },
+            {
+              "name": {
+                "ch": "巨蛋 (三民家商) ",
+                "en": "Kaohsiung Arena"
+              },
+              "code": "R14"
+            },
+            {
+              "name": {
+                "ch": "生態園區",
+                "en": "Ecological District"
+              },
+              "code": "R15"
+            },
+            {
+              "name": {
+                "ch": "左營 (高鐵) ",
+                "en": "Zuoying"
+              },
+              "code": "R16"
+            },
+            {
+              "name": {
+                "ch": "世運 (國家體育園區) ",
+                "en": "World Games"
+              },
+              "code": "R17"
+            },
+            {
+              "name": {
+                "ch": "油廠國小 (中山大學附中) ",
+                "en": "Oil Refinery Elementary School"
+              },
+              "code": "R18"
+            },
+            {
+              "name": {
+                "ch": "楠梓科技園區",
+                "en": "Nanzih Technology Industrial Park"
+              },
+              "code": "R19"
+            },
+            {
+              "name": {
+                "ch": "後勁",
+                "en": "Houjing"
+              },
+              "code": "R20"
+            },
+            {
+              "name": {
+                "ch": "都會公園",
+                "en": "Metropolitan Park"
+              },
+              "code": "R21"
+            },
+            {
+              "name": {
+                "ch": "青埔",
+                "en": "Cingpu"
+              },
+              "code": "R22"
+            },
+            {
+              "name": {
+                "ch": "橋頭糖廠",
+                "en": "Ciaotou Sugar Refinery"
+              },
+              "code": "R22A"
+            },
+            {
+              "name": {
+                "ch": "橋頭火車站",
+                "en": "Ciaotou Station"
+              },
+              "code": "R23"
+            },
+            {
+              "name": {
+                "ch": "岡山高醫",
+                "en": "Kaohsiung Medical University Gangshan Hospital"
+              },
+              "code": "R24"
+            },
+            {
+              "name": {
+                "ch": "岡山車站",
+                "en": "Gangshan Station"
+              },
+              "code": "RK1"
+            }
+          ]
+        },
+        {
+          "line": {
+            "name": "捷運橘線",
+            "code": "O",
+            "color": "#EC9136"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "哈瑪星",
+                "en": "Hamasen"
+              },
+              "code": "O1"
+            },
+            {
+              "name": {
+                "ch": "鹽埕埔",
+                "en": "Yanchengpu"
+              },
+              "code": "O2"
+            },
+            {
+              "name": {
+                "ch": "前金",
+                "en": "Cianjin"
+              },
+              "code": "O4"
+            },
+            {
+              "name": {
+                "ch": "美麗島",
+                "en": "Formosa Boulevard"
+              },
+              "code": "R10/O5"
+            },
+            {
+              "name": {
+                "ch": "信義國小",
+                "en": "Sinyi Elementary School"
+              },
+              "code": "O6"
+            },
+            {
+              "name": {
+                "ch": "文化中心",
+                "en": "Cultural Center"
+              },
+              "code": "O7"
+            },
+            {
+              "name": {
+                "ch": "五塊厝",
+                "en": "Wukuaicuo"
+              },
+              "code": "O8"
+            },
+            {
+              "name": {
+                "ch": "苓雅運動園區",
+                "en": "Lingya Sports Park"
+              },
+              "code": "O9"
+            },
+            {
+              "name": {
+                "ch": "衛武營",
+                "en": "Weiwuying"
+              },
+              "code": "O10"
+            },
+            {
+              "name": {
+                "ch": "鳳山西站 (高雄市議會) ",
+                "en": "Fongshan West (Kaohsiung City Council) "
+              },
+              "code": "O11"
+            },
+            {
+              "name": {
+                "ch": "鳳山",
+                "en": "Fongshan"
+              },
+              "code": "O12"
+            },
+            {
+              "name": {
+                "ch": "大東",
+                "en": "Dadong"
+              },
+              "code": "O13"
+            },
+            {
+              "name": {
+                "ch": "鳳山國中",
+                "en": "Fongshan Junior High School"
+              },
+              "code": "O14"
+            },
+            {
+              "name": {
+                "ch": "大寮 (前庄) ",
+                "en": "Daliao"
+              },
+              "code": "OT1"
+            }
+          ]
+        },
+        {
+          "line": {
+            "name": "捷運環狀線",
+            "code": "C",
+            "color": "#78BB50"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "籬仔內",
+                "en": "Lizihnei"
+              },
+              "code": "C1"
+            },
+            {
+              "name": {
+                "ch": "凱旋瑞田",
+                "en": "Kaisyuan Rueitian"
+              },
+              "code": "C2"
+            },
+            {
+              "name": {
+                "ch": "前鎮之星",
+                "en": "Cianjhen Star"
+              },
+              "code": "C3"
+            },
+            {
+              "name": {
+                "ch": "凱旋中華",
+                "en": "Kaisyuan Jhonghua"
+              },
+              "code": "C4"
+            },
+            {
+              "name": {
+                "ch": "夢時代",
+                "en": "Dream Mall"
+              },
+              "code": "C5"
+            },
+            {
+              "name": {
+                "ch": "經貿園區",
+                "en": "Commerce and Trade Park"
+              },
+              "code": "C6"
+            },
+            {
+              "name": {
+                "ch": "軟體園區",
+                "en": "Software Technology Park"
+              },
+              "code": "C7"
+            },
+            {
+              "name": {
+                "ch": "高雄展覽館",
+                "en": "Kaohsiung Exhibition Center"
+              },
+              "code": "C8"
+            },
+            {
+              "name": {
+                "ch": "旅運中心",
+                "en": "Cruise Terminal"
+              },
+              "code": "C9"
+            },
+            {
+              "name": {
+                "ch": "光榮碼頭",
+                "en": "Glory Pier"
+              },
+              "code": "C10"
+            },
+            {
+              "name": {
+                "ch": "真愛碼頭",
+                "en": "Love Pier"
+              },
+              "code": "C11"
+            },
+            {
+              "name": {
+                "ch": "駁二大義",
+                "en": "Dayi Pier-2"
+              },
+              "code": "C12"
+            },
+            {
+              "name": {
+                "ch": "駁二蓬萊",
+                "en": "Penglai Pier-2"
+              },
+              "code": "C13"
+            },
+            {
+              "name": {
+                "ch": "哈瑪星",
+                "en": "Hamasen"
+              },
+              "code": "C14"
+            },
+            {
+              "name": {
+                "ch": "壽山公園 (金馬賓館當代美術館) ",
+                "en": "Shoushan Park"
+              },
+              "code": "C15"
+            },
+            {
+              "name": {
+                "ch": "文武聖殿",
+                "en": "Wenwu Temple"
+              },
+              "code": "C16"
+            },
+            {
+              "name": {
+                "ch": "鼓山區公所",
+                "en": "Gushan District Office"
+              },
+              "code": "C17"
+            },
+            {
+              "name": {
+                "ch": "鼓山",
+                "en": "Gushan"
+              },
+              "code": "C18"
+            },
+            {
+              "name": {
+                "ch": "馬卡道",
+                "en": "Makadao"
+              },
+              "code": "C19"
+            },
+            {
+              "name": {
+                "ch": "臺鐵美術館",
+                "en": "TRA Museum of Fine Arts"
+              },
+              "code": "C20"
+            },
+            {
+              "name": {
+                "ch": "內惟藝術中心",
+                "en": "Neiwei Arts Center"
+              },
+              "code": "C21A"
+            },
+            {
+              "name": {
+                "ch": "美術館",
+                "en": "Kaohsiung Museum of Fine Arts"
+              },
+              "code": "C21"
+            },
+            {
+              "name": {
+                "ch": "聯合醫院",
+                "en": "Kaohsiung Municipal United Hospital"
+              },
+              "code": "C22"
+            },
+            {
+              "name": {
+                "ch": "龍華國小",
+                "en": "Longhua Elementary School"
+              },
+              "code": "C23"
+            },
+            {
+              "name": {
+                "ch": "愛河之心",
+                "en": "Heart of Love River"
+              },
+              "code": "C24"
+            },
+            {
+              "name": {
+                "ch": "新上國小",
+                "en": "Sinshang Elementary School"
+              },
+              "code": "C25"
+            },
+            {
+              "name": {
+                "ch": "大順民族",
+                "en": "Dashun Minzu"
+              },
+              "code": "C26"
+            },
+            {
+              "name": {
+                "ch": "灣仔內 (大順鼎山) ",
+                "en": "Wanzihnei (Dashun Dingshan) "
+              },
+              "code": "C27"
+            },
+            {
+              "name": {
+                "ch": "高雄高工",
+                "en": "Kaohsiung Industrial High School"
+              },
+              "code": "C28"
+            },
+            {
+              "name": {
+                "ch": "樹德家商",
+                "en": "Shu-Te Home-Economics & Commercial High School"
+              },
+              "code": "C29"
+            },
+            {
+              "name": {
+                "ch": "科工館",
+                "en": "Science and Technology Museum"
+              },
+              "code": "C30"
+            },
+            {
+              "name": {
+                "ch": "聖功醫院 (道明中學) ",
+                "en": "St. Joseph Hospital"
+              },
+              "code": "C31"
+            },
+            {
+              "name": {
+                "ch": "凱旋公園",
+                "en": "Kaisyuan Park"
+              },
+              "code": "C32"
+            },
+            {
+              "name": {
+                "ch": "衛生局",
+                "en": "Department of Health"
+              },
+              "code": "C33"
+            },
+            {
+              "name": {
+                "ch": "五權國小",
+                "en": "Wucyuan Elementary School"
+              },
+              "code": "C34"
+            },
+            {
+              "name": {
+                "ch": "凱旋武昌",
+                "en": "Kaisyuan Wuchang"
+              },
+              "code": "C35"
+            },
+            {
+              "name": {
+                "ch": "凱旋二聖",
+                "en": "Kaisyuan Ersheng"
+              },
+              "code": "C36"
+            },
+            {
+              "name": {
+                "ch": "輕軌機廠",
+                "en": "LRT Depot"
+              },
+              "code": "C37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "operator": "TRTC",
+      "lines": [
+        {
+          "line": {
+            "name": "BR 文湖線",
+            "code": "BR",
+            "color": "#C38C2F"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "動物園",
+                "en": "Taipei Zoo"
+              },
+              "code": "BR01"
+            },
+            {
+              "name": {
+                "ch": "木柵",
+                "en": "Muzha"
+              },
+              "code": "BR02"
+            },
+            {
+              "name": {
+                "ch": "萬芳社區",
+                "en": "Wanfang Community"
+              },
+              "code": "BR03"
+            },
+            {
+              "name": {
+                "ch": "萬芳醫院",
+                "en": "Wanfang Hospital"
+              },
+              "code": "BR04"
+            },
+            {
+              "name": {
+                "ch": "辛亥",
+                "en": "Xinhai"
+              },
+              "code": "BR05"
+            },
+            {
+              "name": {
+                "ch": "麟光",
+                "en": "Linguang"
+              },
+              "code": "BR06"
+            },
+            {
+              "name": {
+                "ch": "六張犁",
+                "en": "Liuzhangli"
+              },
+              "code": "BR07"
+            },
+            {
+              "name": {
+                "ch": "科技大樓",
+                "en": "Technology Building"
+              },
+              "code": "BR08"
+            },
+            {
+              "name": {
+                "ch": "大安",
+                "en": "Daan"
+              },
+              "code": "BR09"
+            },
+            {
+              "name": {
+                "ch": "忠孝復興",
+                "en": "Zhongxiao Fuxing"
+              },
+              "code": "BR10"
+            },
+            {
+              "name": {
+                "ch": "南京復興",
+                "en": "Nanjing Fuxing"
+              },
+              "code": "BR11"
+            },
+            {
+              "name": {
+                "ch": "中山國中",
+                "en": "Zhongshan Junior High School"
+              },
+              "code": "BR12"
+            },
+            {
+              "name": {
+                "ch": "松山機場",
+                "en": "Songshan Airport"
+              },
+              "code": "BR13"
+            },
+            {
+              "name": {
+                "ch": "大直",
+                "en": "Dazhi"
+              },
+              "code": "BR14"
+            },
+            {
+              "name": {
+                "ch": "劍南路",
+                "en": "Jiannan Rd."
+              },
+              "code": "BR15"
+            },
+            {
+              "name": {
+                "ch": "西湖",
+                "en": "Xihu"
+              },
+              "code": "BR16"
+            },
+            {
+              "name": {
+                "ch": "港墘",
+                "en": "Gangqian"
+              },
+              "code": "BR17"
+            },
+            {
+              "name": {
+                "ch": "文德",
+                "en": "Wende"
+              },
+              "code": "BR18"
+            },
+            {
+              "name": {
+                "ch": "內湖",
+                "en": "Neihu"
+              },
+              "code": "BR19"
+            },
+            {
+              "name": {
+                "ch": "大湖公園",
+                "en": "Dahu Park"
+              },
+              "code": "BR20"
+            },
+            {
+              "name": {
+                "ch": "葫洲",
+                "en": "Huzhou"
+              },
+              "code": "BR21"
+            },
+            {
+              "name": {
+                "ch": "東湖",
+                "en": "Donghu"
+              },
+              "code": "BR22"
+            },
+            {
+              "name": {
+                "ch": "南港軟體園區",
+                "en": "Nangang Software Park"
+              },
+              "code": "BR23"
+            },
+            {
+              "name": {
+                "ch": "南港展覽館",
+                "en": "Taipei Nangang Exhibition Center"
+              },
+              "code": "BR24"
+            }
+          ]
+        },
+        {
+          "line": {
+            "name": "R 淡水信義線",
+            "code": "R",
+            "color": "#E3002D"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "象山",
+                "en": "Xiangshan"
+              },
+              "code": "R02"
+            },
+            {
+              "name": {
+                "ch": "台北101/世貿",
+                "en": "Taipei 101/World Trade Center"
+              },
+              "code": "R03"
+            },
+            {
+              "name": {
+                "ch": "信義安和",
+                "en": "Xinyi Anhe"
+              },
+              "code": "R04"
+            },
+            {
+              "name": {
+                "ch": "大安",
+                "en": "Daan"
+              },
+              "code": "R05"
+            },
+            {
+              "name": {
+                "ch": "大安森林公園",
+                "en": "Daan Park"
+              },
+              "code": "R06"
+            },
+            {
+              "name": {
+                "ch": "東門",
+                "en": "Dongmen"
+              },
+              "code": "R07"
+            },
+            {
+              "name": {
+                "ch": "中正紀念堂",
+                "en": "C.K.S. Memorial Hall"
+              },
+              "code": "R08"
+            },
+            {
+              "name": {
+                "ch": "台大醫院",
+                "en": "NTU Hospital"
+              },
+              "code": "R09"
+            },
+            {
+              "name": {
+                "ch": "台北車站",
+                "en": "Taipei Main Station"
+              },
+              "code": "R10"
+            },
+            {
+              "name": {
+                "ch": "中山",
+                "en": "Zhongshan"
+              },
+              "code": "R11"
+            },
+            {
+              "name": {
+                "ch": "雙連",
+                "en": "Shuanglian"
+              },
+              "code": "R12"
+            },
+            {
+              "name": {
+                "ch": "民權西路",
+                "en": "Minquan W. Rd."
+              },
+              "code": "R13"
+            },
+            {
+              "name": {
+                "ch": "圓山",
+                "en": "Yuanshan"
+              },
+              "code": "R14"
+            },
+            {
+              "name": {
+                "ch": "劍潭",
+                "en": "Jiantan"
+              },
+              "code": "R15"
+            },
+            {
+              "name": {
+                "ch": "士林",
+                "en": "Shilin"
+              },
+              "code": "R16"
+            },
+            {
+              "name": {
+                "ch": "芝山",
+                "en": "Zhishan"
+              },
+              "code": "R17"
+            },
+            {
+              "name": {
+                "ch": "明德",
+                "en": "Mingde"
+              },
+              "code": "R18"
+            },
+            {
+              "name": {
+                "ch": "石牌",
+                "en": "Shipai"
+              },
+              "code": "R19"
+            },
+            {
+              "name": {
+                "ch": "唭哩岸",
+                "en": "Qilian"
+              },
+              "code": "R20"
+            },
+            {
+              "name": {
+                "ch": "奇岩",
+                "en": "Qiyan"
+              },
+              "code": "R21"
+            },
+            {
+              "name": {
+                "ch": "北投",
+                "en": "Beitou"
+              },
+              "code": "R22"
+            },
+            {
+              "name": {
+                "ch": "新北投",
+                "en": "Xinbeitou"
+              },
+              "code": "R22A"
+            },
+            {
+              "name": {
+                "ch": "復興崗",
+                "en": "Fuxinggang"
+              },
+              "code": "R23"
+            },
+            {
+              "name": {
+                "ch": "忠義",
+                "en": "Zhongyi"
+              },
+              "code": "R24"
+            },
+            {
+              "name": {
+                "ch": "關渡",
+                "en": "Guandu"
+              },
+              "code": "R25"
+            },
+            {
+              "name": {
+                "ch": "竹圍",
+                "en": "Zhuwei"
+              },
+              "code": "R26"
+            },
+            {
+              "name": {
+                "ch": "紅樹林",
+                "en": "Hongshulin"
+              },
+              "code": "R27"
+            },
+            {
+              "name": {
+                "ch": "淡水",
+                "en": "Tamsui"
+              },
+              "code": "R28"
+            }
+          ]
+        },
+        {
+          "line": {
+            "name": "G 松山新店線",
+            "code": "G",
+            "color": "#008658"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "新店",
+                "en": "Xindian"
+              },
+              "code": "G01"
+            },
+            {
+              "name": {
+                "ch": "新店區公所",
+                "en": "Xindian District Office"
+              },
+              "code": "G02"
+            },
+            {
+              "name": {
+                "ch": "七張",
+                "en": "Qizhang"
+              },
+              "code": "G03"
+            },
+            {
+              "name": {
+                "ch": "小碧潭",
+                "en": "Xiaobitan"
+              },
+              "code": "G03A"
+            },
+            {
+              "name": {
+                "ch": "大坪林",
+                "en": "Dapinglin"
+              },
+              "code": "G04"
+            },
+            {
+              "name": {
+                "ch": "景美",
+                "en": "Jingmei"
+              },
+              "code": "G05"
+            },
+            {
+              "name": {
+                "ch": "萬隆",
+                "en": "Wanlong"
+              },
+              "code": "G06"
+            },
+            {
+              "name": {
+                "ch": "公館",
+                "en": "Gongguan"
+              },
+              "code": "G07"
+            },
+            {
+              "name": {
+                "ch": "台電大樓",
+                "en": "Taipower Building"
+              },
+              "code": "G08"
+            },
+            {
+              "name": {
+                "ch": "古亭",
+                "en": "Guting"
+              },
+              "code": "G09"
+            },
+            {
+              "name": {
+                "ch": "中正紀念堂",
+                "en": "C.K.S. Memorial Hall"
+              },
+              "code": "G10"
+            },
+            {
+              "name": {
+                "ch": "小南門",
+                "en": "Xiaonanmen"
+              },
+              "code": "G11"
+            },
+            {
+              "name": {
+                "ch": "西門",
+                "en": "Ximen"
+              },
+              "code": "G12"
+            },
+            {
+              "name": {
+                "ch": "北門",
+                "en": "Beimen"
+              },
+              "code": "G13"
+            },
+            {
+              "name": {
+                "ch": "中山",
+                "en": "Zhongshan"
+              },
+              "code": "G14"
+            },
+            {
+              "name": {
+                "ch": "松江南京",
+                "en": "Songjiang Nanjing"
+              },
+              "code": "G15"
+            },
+            {
+              "name": {
+                "ch": "南京復興",
+                "en": "Nanjing Fuxing"
+              },
+              "code": "G16"
+            },
+            {
+              "name": {
+                "ch": "台北小巨蛋",
+                "en": "Taipei Arena"
+              },
+              "code": "G17"
+            },
+            {
+              "name": {
+                "ch": "南京三民",
+                "en": "Nanjing Sanmin"
+              },
+              "code": "G18"
+            },
+            {
+              "name": {
+                "ch": "松山",
+                "en": "Songshan"
+              },
+              "code": "G19"
+            }
+          ]
+        },
+        {
+          "line": {
+            "name": "O 中和新蘆線",
+            "code": "O",
+            "color": "#F8B61D"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "南勢角",
+                "en": "Nanshijiao"
+              },
+              "code": "O01"
+            },
+            {
+              "name": {
+                "ch": "景安",
+                "en": "Jingan"
+              },
+              "code": "O02"
+            },
+            {
+              "name": {
+                "ch": "永安市場",
+                "en": "Yongan Market"
+              },
+              "code": "O03"
+            },
+            {
+              "name": {
+                "ch": "頂溪",
+                "en": "Dingxi"
+              },
+              "code": "O04"
+            },
+            {
+              "name": {
+                "ch": "古亭",
+                "en": "Guting"
+              },
+              "code": "O05"
+            },
+            {
+              "name": {
+                "ch": "東門",
+                "en": "Dongmen"
+              },
+              "code": "O06"
+            },
+            {
+              "name": {
+                "ch": "忠孝新生",
+                "en": "Zhongxiao Xinsheng"
+              },
+              "code": "O07"
+            },
+            {
+              "name": {
+                "ch": "松江南京",
+                "en": "Songjiang Nanjing"
+              },
+              "code": "O08"
+            },
+            {
+              "name": {
+                "ch": "行天宮",
+                "en": "Xingtian Temple "
+              },
+              "code": "O09"
+            },
+            {
+              "name": {
+                "ch": "中山國小",
+                "en": "Zhongshan Elementary School"
+              },
+              "code": "O10"
+            },
+            {
+              "name": {
+                "ch": "民權西路",
+                "en": "Minquan W. Rd."
+              },
+              "code": "O11"
+            },
+            {
+              "name": {
+                "ch": "大橋頭",
+                "en": "Daqiaotou"
+              },
+              "code": "O12"
+            },
+            {
+              "name": {
+                "ch": "台北橋",
+                "en": "Taipei Bridge"
+              },
+              "code": "O13"
+            },
+            {
+              "name": {
+                "ch": "菜寮",
+                "en": "Cailiao"
+              },
+              "code": "O14"
+            },
+            {
+              "name": {
+                "ch": "三重",
+                "en": "Sanchong"
+              },
+              "code": "O15"
+            },
+            {
+              "name": {
+                "ch": "先嗇宮",
+                "en": "Xianse Temple"
+              },
+              "code": "O16"
+            },
+            {
+              "name": {
+                "ch": "頭前庄",
+                "en": "Touqianzhuang"
+              },
+              "code": "O17"
+            },
+            {
+              "name": {
+                "ch": "新莊",
+                "en": "Xinzhuang"
+              },
+              "code": "O18"
+            },
+            {
+              "name": {
+                "ch": "輔大",
+                "en": "Fu Jen University"
+              },
+              "code": "O19"
+            },
+            {
+              "name": {
+                "ch": "丹鳳",
+                "en": "Danfeng"
+              },
+              "code": "O20"
+            },
+            {
+              "name": {
+                "ch": "迴龍",
+                "en": "Huilong"
+              },
+              "code": "O21"
+            },
+            {
+              "name": {
+                "ch": "三重國小",
+                "en": "Sanchong Elementary School"
+              },
+              "code": "O50"
+            },
+            {
+              "name": {
+                "ch": "三和國中",
+                "en": "Sanhe Junior High School"
+              },
+              "code": "O51"
+            },
+            {
+              "name": {
+                "ch": "徐匯中學",
+                "en": "St. Ignatius High School"
+              },
+              "code": "O52"
+            },
+            {
+              "name": {
+                "ch": "三民高中",
+                "en": "Sanmin Senior High School"
+              },
+              "code": "O53"
+            },
+            {
+              "name": {
+                "ch": "蘆洲",
+                "en": "Luzhou"
+              },
+              "code": "O54"
+            }
+          ]
+        },
+        {
+          "line": {
+            "name": "BL 板南線",
+            "code": "BL",
+            "color": "#016FBC"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "頂埔",
+                "en": "Dingpu"
+              },
+              "code": "BL01"
+            },
+            {
+              "name": {
+                "ch": "永寧",
+                "en": "Yongning"
+              },
+              "code": "BL02"
+            },
+            {
+              "name": {
+                "ch": "土城",
+                "en": "Tucheng"
+              },
+              "code": "BL03"
+            },
+            {
+              "name": {
+                "ch": "海山",
+                "en": "Haishan"
+              },
+              "code": "BL04"
+            },
+            {
+              "name": {
+                "ch": "亞東醫院",
+                "en": "Far Eastern Hospital"
+              },
+              "code": "BL05"
+            },
+            {
+              "name": {
+                "ch": "府中",
+                "en": "Fuzhong"
+              },
+              "code": "BL06"
+            },
+            {
+              "name": {
+                "ch": "板橋",
+                "en": "Banqiao"
+              },
+              "code": "BL07"
+            },
+            {
+              "name": {
+                "ch": "新埔",
+                "en": "Xinpu"
+              },
+              "code": "BL08"
+            },
+            {
+              "name": {
+                "ch": "江子翠",
+                "en": "Jiangzicui"
+              },
+              "code": "BL09"
+            },
+            {
+              "name": {
+                "ch": "龍山寺",
+                "en": "Longshan Temple"
+              },
+              "code": "BL10"
+            },
+            {
+              "name": {
+                "ch": "西門",
+                "en": "Ximen"
+              },
+              "code": "BL11"
+            },
+            {
+              "name": {
+                "ch": "台北車站",
+                "en": "Taipei Main Station"
+              },
+              "code": "BL12"
+            },
+            {
+              "name": {
+                "ch": "善導寺",
+                "en": "Shandao Temple"
+              },
+              "code": "BL13"
+            },
+            {
+              "name": {
+                "ch": "忠孝新生",
+                "en": "Zhongxiao Xinsheng"
+              },
+              "code": "BL14"
+            },
+            {
+              "name": {
+                "ch": "忠孝復興",
+                "en": "Zhongxiao Fuxing"
+              },
+              "code": "BL15"
+            },
+            {
+              "name": {
+                "ch": "忠孝敦化",
+                "en": "Zhongxiao Dunhua"
+              },
+              "code": "BL16"
+            },
+            {
+              "name": {
+                "ch": "國父紀念館",
+                "en": "S.Y.S. Memorial Hall"
+              },
+              "code": "BL17"
+            },
+            {
+              "name": {
+                "ch": "市政府",
+                "en": "Taipei City Hall"
+              },
+              "code": "BL18"
+            },
+            {
+              "name": {
+                "ch": "永春",
+                "en": "Yongchun"
+              },
+              "code": "BL19"
+            },
+            {
+              "name": {
+                "ch": "後山埤",
+                "en": "Houshanpi"
+              },
+              "code": "BL20"
+            },
+            {
+              "name": {
+                "ch": "昆陽",
+                "en": "Kunyang"
+              },
+              "code": "BL21"
+            },
+            {
+              "name": {
+                "ch": "南港",
+                "en": "Nangang"
+              },
+              "code": "BL22"
+            },
+            {
+              "name": {
+                "ch": "南港展覽館",
+                "en": "Taipei Nangang Exhibition Center"
+              },
+              "code": "BL23"
+            }
+          ]
+        },
+        {
+          "line": {
+            "name": "Y 環狀線",
+            "code": "Y",
+            "color": "#000000"
+          },
+          "stations": [
+            {
+              "name": {
+                "ch": "大坪林",
+                "en": "Dapinglin"
+              },
+              "code": "Y07"
+            },
+            {
+              "name": {
+                "ch": "十四張",
+                "en": "Shisizhang"
+              },
+              "code": "Y08"
+            },
+            {
+              "name": {
+                "ch": "秀朗橋",
+                "en": "Xiulang Bridge"
+              },
+              "code": "Y09"
+            },
+            {
+              "name": {
+                "ch": "景平",
+                "en": "Jingping"
+              },
+              "code": "Y10"
+            },
+            {
+              "name": {
+                "ch": "景安",
+                "en": "Jingan"
+              },
+              "code": "Y11"
+            },
+            {
+              "name": {
+                "ch": "中和",
+                "en": "Zhonghe"
+              },
+              "code": "Y12"
+            },
+            {
+              "name": {
+                "ch": "橋和",
+                "en": "Qiaohe"
+              },
+              "code": "Y13"
+            },
+            {
+              "name": {
+                "ch": "中原",
+                "en": "Zhongyuan"
+              },
+              "code": "Y14"
+            },
+            {
+              "name": {
+                "ch": "板新",
+                "en": "Banxin"
+              },
+              "code": "Y15"
+            },
+            {
+              "name": {
+                "ch": "板橋",
+                "en": "Banqiao"
+              },
+              "code": "Y16"
+            },
+            {
+              "name": {
+                "ch": "新埔民生",
+                "en": "Xinpu Minsheng"
+              },
+              "code": "Y17"
+            },
+            {
+              "name": {
+                "ch": "頭前庄",
+                "en": "Touqianzhuang"
+              },
+              "code": "Y18"
+            },
+            {
+              "name": {
+                "ch": "幸福",
+                "en": "Xingfu"
+              },
+              "code": "Y19"
+            },
+            {
+              "name": {
+                "ch": "新北產業園區",
+                "en": "New Taipei Industrial Park"
+              },
+              "code": "Y20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
