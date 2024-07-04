@@ -802,14 +802,14 @@
             },
             {
               "name": {
-                "ch": "台大醫院",
+                "ch": "臺大醫院",
                 "en": "NTU Hospital"
               },
               "code": "R09"
             },
             {
               "name": {
-                "ch": "台北車站",
+                "ch": "臺北車站",
                 "en": "Taipei Main Station"
               },
               "code": "R10"
@@ -1077,7 +1077,7 @@
             },
             {
               "name": {
-                "ch": "台北小巨蛋",
+                "ch": "臺北小巨蛋",
                 "en": "Taipei Arena"
               },
               "code": "G17"
@@ -1375,7 +1375,7 @@
             },
             {
               "name": {
-                "ch": "台北車站",
+                "ch": "臺北車站",
                 "en": "Taipei Main Station"
               },
               "code": "BL12"
